@@ -1,4 +1,5 @@
 Список и детали
+[![hooks-page](https://github.com/bas27/ra-hooks-use-effect-8.1_/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ra-hooks-use-effect-8.1_/actions/workflows/web.yml)
 ===
 
 Вы решили потренироваться в использовании хука `useEffect` и реализовать следующее приложение — список с пользователями, в котором при клике на пользователя рядом появляется окно, отображающее детальную информацию о нём:
